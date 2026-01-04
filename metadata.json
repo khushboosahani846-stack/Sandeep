@@ -1,0 +1,7 @@
+{
+  "name": "Yashika Enterprises - Construction & Architecture",
+  "description": "A premium, professional construction and architecture company website with modern design, video hero, and smooth animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
